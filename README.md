@@ -207,6 +207,19 @@ Theoretical photovoltaic yield is an indicative metric, not a real production fo
 
 Data updates are periodic and not real-time
 
+# Dashboard Preview
+
+### Renewable Energy Overview
+![Overview](assets/Overview.png)
+
+### Regional & Departmental Analysis
+![Regional_Analysis](assets/Regional_Analysis.png)
+
+### Climate & Photovoltaic Potential
+![Climate_analysis](assets/Climate_analysis.png)
+
+### Storage & Grid Flexibility
+![Key_measures](assets/Key_measures.png)
 
 
 
